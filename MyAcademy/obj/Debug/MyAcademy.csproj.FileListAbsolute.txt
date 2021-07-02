@@ -1,0 +1,14 @@
+F:\MyAcademy\MyAcademy\bin\Debug\MyAcademy.exe.config
+F:\MyAcademy\MyAcademy\bin\Debug\MyAcademy.exe
+F:\MyAcademy\MyAcademy\bin\Debug\MyAcademy.pdb
+F:\MyAcademy\MyAcademy\obj\Debug\MyAcademy.csprojAssemblyReference.cache
+F:\MyAcademy\MyAcademy\obj\Debug\MyAcademy.MyAcdemy.resources
+F:\MyAcademy\MyAcademy\obj\Debug\MyAcademy.Properties.Resources.resources
+F:\MyAcademy\MyAcademy\obj\Debug\MyAcademy.UserControls.FirstUC.resources
+F:\MyAcademy\MyAcademy\obj\Debug\MyAcademy.UserControls.SecondUC.resources
+F:\MyAcademy\MyAcademy\obj\Debug\MyAcademy.csproj.GenerateResource.cache
+F:\MyAcademy\MyAcademy\obj\Debug\MyAcademy.csproj.CoreCompileInputs.cache
+F:\MyAcademy\MyAcademy\obj\Debug\MyAcademy.exe
+F:\MyAcademy\MyAcademy\obj\Debug\MyAcademy.pdb
+F:\MyAcademy\MyAcademy\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\MyAcademy\MyAcademy\obj\Debug\MyAcademy.csproj.CopyComplete
